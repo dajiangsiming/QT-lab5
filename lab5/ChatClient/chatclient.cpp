@@ -3,7 +3,7 @@
 #include <QDataStream>
 #include <QJsonObject>
 #include <QJsonDocument>
-
+1
 ChatClient::ChatClient(QObject *parent)
     : QObject{parent}
 {
